@@ -1,1 +1,1 @@
-console.log(main);
+var mainVar = main == true ? main : false;

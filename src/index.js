@@ -1,1 +1,2 @@
-console.log(index);
+var indexVar = index == true ? index : false;
+

@@ -1,6 +1,6 @@
 {
   "undef": false,
-  "console": false,
+  "eqeqeq": true,
   "overrides": {
     "src/app/**/*.js": {
       "undef": true
