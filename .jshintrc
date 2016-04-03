@@ -1,0 +1,9 @@
+{
+  "undef": false,
+  "console": false,
+  "overrides": {
+    "src/app/**/*.js": {
+      "undef": true
+    }
+  }
+}
